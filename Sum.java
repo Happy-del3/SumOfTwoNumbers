@@ -12,13 +12,13 @@ public class Sum{
         // Prompt for user to enter the firstNumber   
         System.out.print("Please enter the first number: ");
  
-        // Read an integer from the keyboard, entered by the user and store it to the firstNumber
+        // Read an integer from the input, entered by the user and store it to the firstNumber
         firstNumber = input.nextInt();
  
         // Prompt for user to enter the secondNumber
         System.out.print("Please enter the second number: ");
  
-        // Read an integer from the keyboard, entered by the user and store it to the secondNumber
+        // Read an integer from the input, entered by the user and store it to the secondNumber
         secondNumber = input.nextInt();
 
         // Call / Invoke determineSum()
